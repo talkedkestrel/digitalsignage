@@ -1,5 +1,5 @@
-[![Build Status](https://dev.azure.com/fundychan/vsignage/_apis/build/status/vsignage?branchName=master)](https://dev.azure.com/fundychan/vsignage/_build/latest?definitionId=5?branchName=master)
 digitalsignage
+[![Build Status](https://dev.azure.com/fundychan/vsignage/_apis/build/status/vsignage?branchName=master)](https://dev.azure.com/fundychan/vsignage/_build/latest?definitionId=5?branchName=master)
 ==============
 
 ## Usage
